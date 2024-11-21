@@ -17,7 +17,7 @@
 # Access the live version - 
 
 ```
-# Tomato - Food Ordering App
+# E- Commerce app
 
 <p> This is a web app built using Javascript for frontend and Node JS, Express for creating the REST APIs along with Mongo DB to store data. 
 </p>
